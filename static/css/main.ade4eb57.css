@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body,html{font-family:sans-serif;overflow-x:hidden;overflow-y:hidden}.webgl{left:0;position:absolute;top:0;z-index:1}nav{display:flex;justify-content:space-between;padding:4rem 8rem;position:relative;z-index:2}nav,nav a{color:#fff}nav a{font-weight:700;text-decoration:none}nav ul{display:flex;gap:4rem}nav ul li{list-style:none}.title{color:#fff;font-size:3rem;left:50%;position:absolute;top:75%;-webkit-transform:translate(-50%,-75%);transform:translate(-50%,-75%);z-index:2}
+/*# sourceMappingURL=main.ade4eb57.css.map*/
