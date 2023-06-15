@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/three-js-sphere/static/css/main.ade4eb57.css",
-    "main.js": "/three-js-sphere/static/js/main.2902cff6.js",
-    "index.html": "/three-js-sphere/index.html",
-    "main.ade4eb57.css.map": "/three-js-sphere/static/css/main.ade4eb57.css.map",
-    "main.2902cff6.js.map": "/three-js-sphere/static/js/main.2902cff6.js.map"
+    "main.css": "/three.js-tutorial/static/css/main.ade4eb57.css",
+    "main.js": "/three.js-tutorial/static/js/main.2902cff6.js",
+    "index.html": "/three.js-tutorial/index.html",
+    "main.ade4eb57.css.map": "/three.js-tutorial/static/css/main.ade4eb57.css.map",
+    "main.2902cff6.js.map": "/three.js-tutorial/static/js/main.2902cff6.js.map"
   },
   "entrypoints": [
     "static/css/main.ade4eb57.css",
