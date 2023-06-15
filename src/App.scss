@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body,
+html {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  font-family: sans-serif;
+}
+
+.webgl {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+nav {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  padding: 4rem 8rem;
+  z-index: 2;
+
+  a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  ul {
+    display: flex;
+    gap: 4rem;
+
+    li {
+      list-style: none;
+    }
+  }
+}
+
+.title {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -75%);
+  color: white;
+  font-size: 3rem;
+  z-index: 2;
+}
